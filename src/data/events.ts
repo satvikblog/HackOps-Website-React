@@ -54,7 +54,7 @@ export const events: Event[] = [
     title: 'Wifi Hacking 101',
     description: 'Expert-led session on securing wifi networks.',
     date: '2025-01-10',
-    type: 'webinar',
+    type: 'workshop',
     status: 'upcoming',
     registrationStatus: 'notStarted',
     registrationLink: 'https://forms.example.com/network-security-webinar',
