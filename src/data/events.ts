@@ -48,5 +48,21 @@ export const events: Event[] = [
       current: 150,
       total: 200
     }
+  },
+  {
+    id: '4',
+    title: 'Wifi Hacking 101',
+    description: 'Expert-led session on securing wifi networks.',
+    date: '2025-01-10',
+    type: 'webinar',
+    status: 'upcoming',
+    registrationStatus: 'notStarted',
+    registrationLink: 'https://forms.example.com/network-security-webinar',
+    detailsLink: 'https://example.com/past-event-details/network-security-webinar',
+    image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31',
+    participants: {
+      current: 0,
+      total: 60
+    }
   }
 ];

@@ -35,7 +35,7 @@ export default function Header() {
           <NavLink to="/" className="flex items-center space-x-2">
             <img
               src="https://res.cloudinary.com/dae56bvjp/image/upload/v1734460980/6_ygaqii.webp" // Replace with your club logo path
-              alt="CyberGuard Logo"
+              alt="HackOps Club Logo"
               className="h-8 w-auto"
             />
             <span className="text-xl font-bold text-white">HackOps Club</span>
